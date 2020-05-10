@@ -20,13 +20,13 @@ Major Experience
 
 Publication
 ======
-***Improving script identification by intergating text recognition information**<br>
-YP Cao, J Li, QF Wang, K Huang, R Zhang<br>
-26th International Conference on Neural Information Processing, Accepted.<br>
+* **Improving script identification by intergating text recognition information**<br>
+<b>Y Cao, J Li, QF Wang, K Huang, R Zhang<br>
+<b>26th International Conference on Neural Information Processing, Accepted.<br>
 
-***Improving Image Caption Performance with Linguistic Context**<br>
-Y Cao, QF Wang, K Huang, R Zhang<br>
-10th International Conference on Brain Inspired Cognitive Systems, 3-11.
+* **Improving Image Caption Performance with Linguistic Context**<br>
+<b>Y Cao, QF Wang, K Huang, R Zhang<br>
+<b>10th International Conference on Brain Inspired Cognitive Systems, 3-11.
 
 Skills
 ======
