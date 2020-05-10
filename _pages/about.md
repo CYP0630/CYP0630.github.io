@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Master of Science student in Applied Artificial Intelligence Program at Stevens Institute of Technology.  Before that I obtained a M.S degree in Multimedia Telecommunication at University of Liverpool under the supervision of Prof.Kaizhu Huang and Prof.Qiufeng Wang. I received my BEng degree in Department of Electrical Engineering & Electronics at Xi'an Jiaotong-Liverpool University.
 
-I'm interested in computer vision, natural language processing and machine learning. I have the research/project experience about **MultiModal Machine Learning， Visual Understanding, Scene text classification and recognition.**  
+I'm interested in computer vision, natural language processing and machine learning. I have the research/project experience about **MultiModal Machine Learning, Visual Understanding, Scene text classification and recognition.**  
 
 Major Experience
 ======
