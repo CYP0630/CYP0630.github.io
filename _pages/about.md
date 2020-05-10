@@ -13,10 +13,14 @@ I'm interested in computer vision, natural language processing and machine learn
 
 Major Experience
 ======
-* M.S. in Applied Artifical Intelligence, Stevens Institute of Technology, 2019.08-
-* Research Assisstant, [Premilab](http://www.premilab.com/), 2019.01 - 2019.08
-* M.S. in Multimedia Telecommunication, University of Liverpool, 2017.09-2019.01
-* B.Eng in Telecommunication, Xi'an Jiaotong Liverpool University, 2013.09-2017.07
+* <i>Stevens Institute of Technology</i>, 2019.08-
+  * <b>M.S. in Applied Artifical Intelligence (expected)</b>
+* <i>Research Assisstant</i>, 2019.01 - 2019.08
+  * <b>[Premilab](http://www.premilab.com/)</b>
+* <i>University of Liverpool</i>, 017.09-2019.01
+  * <b>M.S. in Multimedia Telecommunication (merit)</b>
+* <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07
+  * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
 Publication
 ======
