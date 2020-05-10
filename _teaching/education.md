@@ -75,6 +75,7 @@ permalink: /education/
   </ul>
 </div>
 
+
 ## <i>University of Liverpool</i>, 2017.09-2019.01 ##
 * Department of Electrical Engineering & Electronics
 * <b>M.S. in Multimedia Telecommunication (Merit)</b>
@@ -88,8 +89,6 @@ permalink: /education/
     <li>Coding and Cryptography</li>
     <li>Multimedia Communications</li>
     <li>Project Management</li>
- 
-
   </ul>
 </div>
 
@@ -129,9 +128,6 @@ permalink: /education/
     <li>Data Communication </li>
     <li>Information Theory and Coding </li>
     <li>Image Processing </li>
-    
   </ul>
 </div>
-<br />
-
 ---
