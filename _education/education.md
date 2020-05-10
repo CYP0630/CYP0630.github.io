@@ -60,81 +60,76 @@ permalink: /education/
 
 
 
-## <i>University of Oxford</i>, 2019- ##
-* Kennedy Institute of Rheumatology, Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences
-* <b>D.Phil. in Molecular and Cellular Medicine (expected)</b>
-
-## <i>Imperial College London</i>, 2017-2018 ##
-* Hamlyn Center for Robotic Surgery & Department of Surgery and Cancer
-* <b>M.Res. in Medical Robotics & Image Guide Intervention (Distinction)</b>
+## <i>Stevens Institute of Technology</i>, 2019.09- ##
+* Department of Electrical and Computer Engineering
+* <b>M.S. in Applied Artificial Intelligence (expected)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
-    <li>Medical Imaging</li>
-    <li>Image Guided Intervention</li>
-    <li>Medical Robotics</li>
-    <li>Minimal Invasive Surgery</li>
-    <li>Sensing, Perception and Neuroergonomics</li>
+    <li>CPE695 Applied Machine Learning</li>
+    <li>CPE646 Pattern Recognition and Classification</li>
+    <li>CS583 Deep Learning</li>
+    <li>CS584 Natural Language Processing</li>
+    <li>CS558 Computer Vision</li>
+    <li>EE608 Applied Modeling and Optimization</li>
   </ul>
 </div>
 
-## <i>University of Liverpool</i>, 2015-2017 ##
+## <i>University of Liverpool</i>, 2017.09-2019.01 ##
 * Department of Electrical Engineering & Electronics
-* <b>B.Eng. (Hons) in Electrical and Eletctronic Engineering (1st Class Honours)</b>
+* <b>M.S. in Multimedia Telecommunication (Merit)</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
-    <li>Signals and Systems</li>
-    <li>Field Theory, Partial Differential Equation and Method of Solution</li>
-    <li>Instrumentation and Control System</li>
-    <li>Digital Control and Optimization</li>
-    <li>Electrical Circuits and Power Systems</li>
-    <li>Communication Systems</li>
-    <li>Electromagnetics</li>
-    <li>CMOS Integrated Circuits</li>
-    <li>Electronic Circuits And Systems</li>
-    <li>Applied Design and Industrial Awareness</li>
-    <li>Power Generation, Transmission and Distribution</li>
-    <li>RF Engineering and Applied Electromagnetics</li>
-    <li>Electronics For Instrumentation and Communications</li>
-    <li>Drives</li>
-    <li>Engineering Management and Entrepreneurial Skills</li>
-    <li>Electromagnetic Compatibility</li>
-    <li>Embedded Computer Systems</li>
-    <li>Digital Electronics and Microprocessor Systems</li>
+    <li>Digital Image and Video Processing</li>
+    <li>Computer Vison in Deep Learning</li>
+    <li>Advanced Signal Processing</li>
+    <li>Data Communication and Networks</li>
+    <li>Coding and Cryptography</li>
+    <li>Multimedia Communications</li>
+    <li>Project Management</li>
+ 
+
   </ul>
 </div>
 
-## <i>Xi'an Jiaotong-Liverpool University</i>, 2013-2015 ##
+## <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07 ##
 * Department of Electrical and Electronic Engineering
-* <b>B.Eng. in Telecommunication Engineering</b>
+* <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 <h3><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Courses</a></h3>
 <div class="dspcont" style='display:none;'>
   <ul>
     <li>Linear Algebra</li>
-    <li>Calculus (Science & Engineering)</li>
-    <li>Multivariable Calculus (Science and Engineering)</li>
+    <li>Calculus</li>
+    <li>Multivariable Calculus</li>
+    <li>Probability and Statistics </li>
+    <li>Engineering Mathematics </li>
     <li>Physics</li>
     <li>Fundamentals of Computer Programming</li>
-    <li>Engineering Mathematics I</li>
-    <li>Engineering Mathematics II</li>
-    <li>Electrical Circuits I</li>
-    <li>Electronic Circuits</li>
-    <li>Digital Electronics I</li>
     <li>C Programming and Software Engineering I</li>
     <li>C++ Programming and Software Engineering II</li>
-    <li>Engineering Electromagnetism and Drives</li>
-    <li>Integrated Electronics and Design</li>
     <li>Experimental, Computer Skills and Sustainability</li>
-    <li>English Language and Study Skills I for Engineering</li>
-    <li>English Language and Study Skills II for Engineering</li>
-    <li>English Language and Study Skills III for Engineering</li>
-    <li>Self-management</li>
-    <li>Introduction to Literature and Media Culture</li>
-    <li>Ideological and Moral Cultivation and Basis of Law</li>
-    <li>The Modernization Process of China</li>
-    <li>Physical Education 1</li>
-    <li>Physical Education 2</li>
+    <li>Electrical Circuits</li>
+    <li>Electronic Circuits</li>
+    <li>Digital Electronics </li>
+    <li>CMOS Integrated Circuits</li>
+    <li>Integrated Electronics and Design</li>
+    <li>Electromagnetism and Electromechanics</li>
+    <li>RF Engineering and Applied Electromagetics</li>
+    <li>Antennas</li>
+    <li>Instrumentation and Control System</li>
+    <li>Digital Electronics</li>
+    <li>Microprocessor Systems</li>
+    <li>Digital System Design with HDL</li>
+    <li>Embedded Computer Systems</li>
+    <li>Singal Processing I&II</li>
+    <li>Analogue and Digital Communication</li>
+    <li>Communication Theory</li>
+    <li>Wireless Communication </li>
+    <li>Data Communication </li>
+    <li>Information Theory and Coding </li>
+    <li>Image Processing </li>
+    
   </ul>
 </div>
 <br />
