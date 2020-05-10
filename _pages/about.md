@@ -30,4 +30,10 @@ Publication
 
 Skills
 ======
-
+* <b>Languages</b>
+  * Mandarin (Native), English (Fluent)
+* <b>Programming Language</b>
+  * Python, MATLAB, C++, C, Verilog
+* <b>Computer Vision Library and Deep Learning Framework</b>
+  * OpenCV
+  * Keras = PyTorch > Tensorflow1.x/2.x > Caffee
