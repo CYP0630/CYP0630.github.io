@@ -16,9 +16,9 @@ Major Experience
 * <i>Stevens Institute of Technology</i>, 2019.08-
   * <b>M.S. in Applied Artifical Intelligence (expected)</b>
 * <i>Research Assisstant</i>, 2019.01 - 2019.08
-  * <b>[Premilab](http://www.premilab.com/)</b>
+  * <b>[Pattern Recognition & Machine Intelligence Laboratory](http://www.premilab.com/)</b>
 * <i>University of Liverpool</i>, 017.09-2019.01
-  * <b>M.S. in Multimedia Telecommunication (merit)</b>
+  * <b>M.S. in Multimedia Telecommunication (Merit)</b>
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
