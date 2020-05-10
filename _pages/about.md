@@ -22,7 +22,7 @@ Major Experience
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
-Publication
+Publications
 ======
 * **Improving script identification by intergating text recognition information**<br>
     Y Cao, J Li, QF Wang, K Huang, R Zhang<br>
