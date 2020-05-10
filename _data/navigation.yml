@@ -10,12 +10,12 @@ main:
 #    url: /projects/
 
   - title: "Education"
-    url: /education/    
+    url: /teaching/   
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Project"
     url: /portfolio/
         
 #  - title: "Blog Posts"
