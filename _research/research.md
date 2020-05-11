@@ -52,19 +52,11 @@ permalink: /research/
 ---
 
 ## <b>Research Experience</b>
-### <i>Research Assisstant</i>, Pattern Recognition & Machine Intelligence Laboratory ##
-* Department of Electrical and Computer Engineering
-* <b>M.S. in Applied Artificial Intelligence (expected)</b>
 
-<details>
-<summary>Courses</summary>
-
-   * CPE695 Applied Machine Learning <br>
-   * CPE646 Pattern Recognition and Classification<br>
-   * CS583 Deep Learning<br>
-   * CS584 Natural Language Processing<br>
-   * CS558 Computer Vision<br>
-</details>
+* 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab</i>
+  * Studyed on Optical Character Recognition area and take participate in ICDAR2019 Robust Reading Challenge.
+ 
+* 2018.05-2018.12 <b>Final Master Thesis</b>, <i>PremiLab</i>
 
 ---
 
