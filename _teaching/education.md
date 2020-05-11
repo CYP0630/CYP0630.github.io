@@ -95,7 +95,7 @@ permalink: /education/
 ## <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07 ##
 * Department of Electrical and Electronic Engineering
 * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
-* 
+
 <details>
 <summary>Courses</summary>
 
