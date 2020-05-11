@@ -51,6 +51,8 @@ permalink: /research/
 
 ---
 
+<br />
+
 ## <b>Research Experience</b>
 
 * 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab</i>
