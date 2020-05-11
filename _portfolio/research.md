@@ -40,13 +40,13 @@ permalink: /research/
 <details>
 <summary>Detail</summary>
 
-   * we  propose  a  two-stage  script  identification  method  by  integrating  text information.
-   * In the first stage, we utilize a Residual Neural Network (ResNet)based method to get a preliminary classification result. 
-   * In the second stage, werecognize scene text by a multi-lingual recognition system.
-   * Then we propose afusion CNN to integrate the recognized text information and classification scores.
-   * Adding generative data into datasets.
-   * Scene script classification sub-task achieved **91% accuracy** at ICDAR 2017 Robust Reading Challenge.
-   <img src='/images/500x300.png' />
+   * we  propose  a  two-stage  script  identification  method  by  integrating  text information.<br>
+   * In the first stage, we utilize a Residual Neural Network (ResNet)based method to get a preliminary classification result.<br> 
+   * In the second stage, werecognize scene text by a multi-lingual recognition system.<br>
+   * Then we propose afusion CNN to integrate the recognized text information and classification scores.<br>
+   * Adding generative data into datasets.<br>
+   * Scene script classification sub-task achieved **91% accuracy** at ICDAR 2017 Robust Reading Challenge.<br>
+   <img src='/images/ICDAR2019.jpg' />
 </details>
 
 ---
@@ -56,7 +56,8 @@ permalink: /research/
 ## <b>Research Experience</b>
 
 * 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab</i>
-  * Studyed on Optical Character Recognition area and take participate in ICDAR2019 Robust Reading Challenge.
+  * Studyed the related knowledge about Optical Character Recognition area. <br>
+  * Take participate in ICDAR2019 Robust Reading Challenge.<br>
  
 * 2018.05-2018.12 <b>Final Master Thesis</b>, <i>PremiLab</i>
 
