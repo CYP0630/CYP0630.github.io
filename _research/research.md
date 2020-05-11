@@ -19,9 +19,9 @@ permalink: /research/
 <details>
 <summary>Detail</summary>
 
-   * Implement the Seq2Seq2 model with different word embedding to solve this challenge. <br>
-   * Formed this challenge as a Question-Answer task to solve. <br>
-   * Studying and using transform model to solve this task (BERT, RoBERT). <br>
+   * Solution 1: Implement the Seq2Seq2 model with different word embedding to solve this challenge. <br>
+   * Solution 2: Turn this task into Question-Answer task. <br>
+   * Solution 3: Studying and using transform model to solve this task (BERT, RoBERT). <br>
    * Using RoBERT + CNN model improve the performance. <br>
 </details>
 
