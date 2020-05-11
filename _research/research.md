@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research and Thesis"
+title: "Research and Projects"
 collection: research
 author_profile: true
 permalink: /research/ 
@@ -11,10 +11,10 @@ permalink: /research/
 </html>
 <br/>
 
-# <i>Individual Project</i>
+## <i>Competition</i>
 ---
-## <b>Real-time 3D Path Planning from a Single Fluoroscopic Image for Robot Assisted Fenestrated Endovascular Aortic Repair (FEVAR)</b>
-* 2018, _Imperial College London, London, UK_
+### <b>Kaggle Competition: Tweet Sentiment Extraction</b>
+* 0.711, Top 15%
 <h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
 <div class="dspcont" style='display:none;'>
   <fieldset>
