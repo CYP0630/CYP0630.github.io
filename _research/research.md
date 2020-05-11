@@ -46,7 +46,7 @@ permalink: /research/
    * Then we propose afusion CNN to integrate the recognized text information and classification scores.
    * Adding generative data into datasets.
    * Scene script classification sub-task achieved **91% accuracy** at ICDAR 2017 Robust Reading Challenge.
-   <img src='/images/patent1.png' />
+   <img src='/images/500x300.png' />
 </details>
 
 ## <b>Image Mosaic of Unmanned Aerial Vehicle</b>
