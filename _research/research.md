@@ -15,32 +15,15 @@ permalink: /research/
 ---
 ### <b>Kaggle Competition: Tweet Sentiment Extraction</b>
 * 0.711, Top 15%
-<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
-<div class="dspcont" style='display:none;'>
-  <fieldset>
-  <ul>
-    <li><b>Motivation</b>: To navigate robot-assisted fenestrated endovascular aortic repair.</li>
-    <li><b>Pipeline</b>: 
-      <ul>
-        <li>Segmented Abdominal Aortic Aneurysm (AAA) using U-Net with data augmentation of grey value variation instead of rotation and mirroring to avoid overfitting caused by relatively small intra-subject variation of intensity and translation. </li>
-        <li>Extracted the largest connected area from the segmented volume and reconstruct the 3D AAA shape using marching cube. </li>
-        <li>Extracted the centrelines of AAA from CTA and fluoroscopy image. </li>
-        <li>Establish the correspondence between the 3D preoperative and 2D intra-operative AAA skeletons using a proposed graph matching method. </li>
-        <li>Deformed the 3D skeletons using thin plate spline with regularization in respect to skeleton length and smoothness for the non-rigid 2D/3D registration. </li>
-        <li>Validated the proposed framework on simulation, phantom and patient AAA data sets, achieving 3D distance error of 2mm in the phantom setup. </li>
-        <li>Obtained also performance advantages in terms of accuracy, robustness and time-efficiency.</li>
-      </ul>
-    </li>
-    <li>[<u><a href="https://jianqingzheng.github.io/publication/ICRA2019-3d_zheng">publication1</a></u>],[<u><a href="https://jianqingzheng.github.io/publication/HSMR2018-abdominal_zheng">publication2</a></u>],[<u><a href="https://github.com/jianqingzheng/path_planning_for_FEVAR">code</a></u>]</li>
-  </ul>
-  <br/>
-  <img src='/images/aaaseg2d_2.gif' />
-  <img src='/images/aaaseg3d.png' />
-  <img src='/images/demo-recover.gif' />
-  <img src='/images/demo-visual.gif' />
-  </fieldset>
-</div>
-<hr color="#FFFFFF" />
+* [Competition Content](https://www.kaggle.com/c/tweet-sentiment-extraction)
+<details>
+<summary>Detail</summary>
+
+   * Implement the Seq2Seq2 model with different word embedding to solve this challenge. <br>
+   * Formed this challenge as a Question-Answer task to solve. <br>
+   * Studying and using transform model to solve this task (BERT, RoBERT). <br>
+   * Using RoBERT + CNN model improve the performance. <br>
+</details>
 
 ## <b>Load Frequency Control of a Smart Grid</b>
 * 2016, _University of Liverpool, Liverpool, UK_
