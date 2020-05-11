@@ -34,28 +34,20 @@ permalink: /research/
    * Using Tensorflow2.X re-implement the 1.x Model.
 </details>
 
-## <b>Capacitive Touch Sensing Device</b>
-* 2015, _Wuhan University, Wuhan, CN_
-<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
-<div class="dspcont" style='display:none;'>
-  <fieldset>
-  <ul>
-    <li><b>Motivation</b>: To design and develop a capacitive touch sensing module used in toys.</li>
-    <li><b>Pipeline</b>: 
-      <ul>
-        <li>Designed a printed circuit board and the coniguration of capacitance sensor and the sensing circuit.</li>
-        <li>Analyzed electromagnetic coupling. Added an identification wire to each connected signal wire to compensate for current errors caused by the stray capacitances and parasitic capacitances between the connected wires and ground wire. </li>
-        <li>Applied logic circuits to filter fake signals triggered by noise.</li>
-      </ul>
-    </li>
-    <li>[<u><a href="https://jianqingzheng.github.io/publication/UMP2016-logic_zheng">patent</a></u>]</li>
-  </ul>
-  <br/>
-  <img src='/images/patent1.png' />
-  <img src='/images/patent2.png' />
-  </fieldset>
-</div>
-<hr color="#FFFFFF" />
+### <b>ICDAR2019: Robust Reading Challenge on Multi-lingual scene text detection and recognition</b>
+* Ranking: 15/23
+* [Competition Content](https://rrc.cvc.uab.es/?ch=15&com=introduction)
+<details>
+<summary>Detail</summary>
+
+   * we  propose  a  two-stage  script  identification  method  by  integrating  textinformation.
+   * In the first stage, we utilize a Residual Neural Network (ResNet)based method to get a preliminary classification result. 
+   * In the second stage, werecognize scene text by a multi-lingual recognition system.
+   * Then we propose afusion CNN to integrate the recognized text information and classification scores.
+   * Adding generative data into datasets.
+   * Scene script classification sub-task achieved **91% accuracy** at ICDAR 2017 Robust Reading Challenge.
+   <img src='/images/patent1.png' />
+</details>
 
 ## <b>Image Mosaic of Unmanned Aerial Vehicle</b>
 * 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
