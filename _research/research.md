@@ -40,7 +40,7 @@ permalink: /research/
 <details>
 <summary>Detail</summary>
 
-   * we  propose  a  two-stage  script  identification  method  by  integrating  textinformation.
+   * we  propose  a  two-stage  script  identification  method  by  integrating  text information.
    * In the first stage, we utilize a Residual Neural Network (ResNet)based method to get a preliminary classification result. 
    * In the second stage, werecognize scene text by a multi-lingual recognition system.
    * Then we propose afusion CNN to integrate the recognized text information and classification scores.
@@ -49,24 +49,22 @@ permalink: /research/
    <img src='/images/500x300.png' />
 </details>
 
-## <b>Image Mosaic of Unmanned Aerial Vehicle</b>
-* 2015, _Xi’an Jiaotong-Liverpool University, Suzhou, CN_
-<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
-<div class="dspcont" style='display:none;'>
-  <fieldset>
-  <ul>
-    <li><b>Motivation</b>: To implement an automatic program for image mosaic for a unmanned aerial vehicle.</li>
-    <li><b>Pipeline</b>: 
-      <ul>
-        <li>Implemented noise reduction using a Wiener filter. Utilized the random sample consensus algorithm for image registration based on feature points extracted by the Scale-Invariant Feature Transform in MATLAB.</li>
-        <li>Applied weighted averaging to image fusion. </li>
-        <li>Completed a MATLAB program that implemented an automatic image mosaic for given photos.</li>
-      </ul>
-    </li>
-  </ul>
-  <br/>
-  </fieldset>
-</div>
+---
+
+## <b>Research Experience</b>
+### <i>Research Assisstant</i>, Pattern Recognition & Machine Intelligence Laboratory ##
+* Department of Electrical and Computer Engineering
+* <b>M.S. in Applied Artificial Intelligence (expected)</b>
+
+<details>
+<summary>Courses</summary>
+
+   * CPE695 Applied Machine Learning <br>
+   * CPE646 Pattern Recognition and Classification<br>
+   * CS583 Deep Learning<br>
+   * CS584 Natural Language Processing<br>
+   * CS558 Computer Vision<br>
+</details>
 
 ---
 
