@@ -25,27 +25,14 @@ permalink: /research/
    * Using RoBERT + CNN model improve the performance. <br>
 </details>
 
-## <b>Load Frequency Control of a Smart Grid</b>
-* 2016, _University of Liverpool, Liverpool, UK_
-<h4><a href="javascript:void(0)" class="dsphead" onclick="dsp(this)"><span class="dspchar">+</span> Detail</a></h4>
-<div class="dspcont" style='display:none;'>
-  <fieldset>
-  <ul>
-    <li><b>Motivation</b>: To investigate on the potential usage of direct load control in load frequency control of a smart grid.</li>
-    <li><b>Pipeline</b>: 
-      <ul>
-        <li>Built a mathematical model and the simulated one of Load Frequency Control and Direct Load Control in a multi-area power system. </li>
-        <li>Decoupled frequency of each area by solving an equivalent optimization problem of minimizing flow network. </li>
-        <li>Utilized direct controlled load to improve the efficiency and stability of the power system and validated the results with simulation.</li>
-      </ul>
-    </li>
-  </ul>
-  <br/>
-  <img src='/images/powersystem.jpg' />
-  <img src='/images/frequencydev.jpg' />
-  </fieldset>
-</div>
-<hr color="#FFFFFF" />
+### <b>Devpost: PoweredByTF 2.0 Challenge!</b>
+* Winner
+* [Showcase](https://devpost.com/software/shanshuidada)
+<details>
+<summary>Detail</summary>
+
+   * Using Tensorflow2.X re-implement the 1.x Model.
+</details>
 
 ## <b>Capacitive Touch Sensing Device</b>
 * 2015, _Wuhan University, Wuhan, CN_
