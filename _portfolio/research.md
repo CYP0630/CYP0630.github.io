@@ -11,6 +11,25 @@ permalink: /research/
 </html>
 <br/>
 
+
+---
+
+<br />
+
+## <i>Research Experience</i>
+
+* 2020.05- <b>Honors Summer Research</b>, <i>Stevens</i>
+
+* 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab, XJTLU</i>
+  * Studied related knowledge about Optical Character Recognition area. <br>
+  * Take participate in ICDAR2019 Robust Reading Challenge.<br>
+ 
+* 2018.05-2018.12 <b>Final Master Thesis</b>, <i>PremiLab, XJTLU</i>
+  * Studied related knowledge about multi-modal machine learning and image caption <br>
+  * Proposed an image caption system integrating with linguistic context under the encoder-decoder framework.<br>
+---
+
+
 ## <i>Competition</i>
 ---
 ### <b>Kaggle Competition: Tweet Sentiment Extraction</b>
@@ -48,18 +67,6 @@ permalink: /research/
    * Scene script classification sub-task achieved **91% accuracy** at ICDAR 2017 Robust Reading Challenge.<br>
    <img src='/images/ICDAR2019.jpg' />
 </details>
-
----
-
-<br />
-
-## <b>Research Experience</b>
-
-* 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab</i>
-  * Studyed the related knowledge about Optical Character Recognition area. <br>
-  * Take participate in ICDAR2019 Robust Reading Challenge.<br>
- 
-* 2018.05-2018.12 <b>Final Master Thesis</b>, <i>PremiLab</i>
 
 ---
 
