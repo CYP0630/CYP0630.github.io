@@ -66,12 +66,15 @@ permalink: /education/
 
 <details>
 <summary>Courses</summary>
-
+   * CS558  Computer Vision<br>
+   * CS583  Deep Learning<br>
+   * CS584  Natural Language Processing<br>
    * CPE695 Applied Machine Learning <br>
    * CPE646 Pattern Recognition and Classification<br>
-   * CS583 Deep Learning<br>
-   * CS584 Natural Language Processing<br>
-   * CS558 Computer Vision<br>
+   * EE608  Modelling and Optimization
+   
+   
+   
 </details>
 
 
