@@ -72,11 +72,11 @@ permalink: /research/
 
 <br />
 
-## <i>Project</i>
+## <i>Projects</i>
 
 ### <b>Housing Prices Predictions on Amercian Housing Survey 2017</b>
 
-### <b>Indoor Localization</b>
+### <b>Machine Learning Based Indoor Localization</b>
 
 ### <b>Image Mosaics by Using the Homography of a PTZ Camera</b>
 
