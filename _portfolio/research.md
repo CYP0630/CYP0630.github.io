@@ -31,7 +31,7 @@ permalink: /research/
 
 
 ## <i>Competition</i>
----
+
 ### <b>Kaggle Competition: Tweet Sentiment Extraction</b>
 * 0.711, Top 15%
 * [Competition Content](https://www.kaggle.com/c/tweet-sentiment-extraction)
@@ -73,7 +73,7 @@ permalink: /research/
 <br />
 
 ## <i>Project</i>
----
+
 ### <b>Housing Prices Predictions on Amercian Housing Survey 2017</b>
 
 ### <b>Indoor Localization</b>
