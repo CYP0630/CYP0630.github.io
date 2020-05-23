@@ -71,10 +71,7 @@ permalink: /education/
    * CS584  Natural Language Processing<br>
    * CPE695 Applied Machine Learning <br>
    * CPE646 Pattern Recognition and Classification<br>
-   * EE608  Modelling and Optimization
-   
-   
-   
+   * EE608  Modelling and Optimization 
 </details>
 
 
