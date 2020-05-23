@@ -18,13 +18,13 @@ permalink: /research/
 
 ## <i>Research Experience</i>
 
-* 2020.05- <b>Honors Summer Research</b>, <i>Stevens</i>
+* 2020.05-, <b>Honors Summer Research</b>, <i>Stevens</i>
 
-* 2019.01-2019.08 <b>Research Assisstant</b>, <i>PremiLab - XJTLU</i>
+* 2019.01-2019.08, <b>Research Assisstant</b>, <i>PremiLab - XJTLU</i>
   * Studied related knowledge about Optical Character Recognition area. <br>
   * Take participate in ICDAR2019 Robust Reading Challenge.<br>
  
-* 2018.05-2018.12 <b>Final Master Thesis</b>, <i>PremiLab - XJTLU</i>
+* 2018.05-2018.12, <b>Final Master Thesis</b>, <i>PremiLab - XJTLU</i>
   * Studied related knowledge about multi-modal machine learning and image caption <br>
   * Proposed an image caption system integrating with linguistic context under the encoder-decoder framework.<br>
 ---
