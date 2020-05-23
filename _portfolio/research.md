@@ -25,8 +25,9 @@ permalink: /research/
   * Take participate in ICDAR2019 Robust Reading Challenge.<br>
  
 * 2018.05-2018.12, <b>Final Master Thesis</b>, <i>PremiLab - XJTLU</i>
-  * Studied related knowledge about multi-modal machine learning and image caption <br>
-  * Proposed an image caption system integrating with linguistic context under the encoder-decoder framework.<br>
+  * Studied related knowledge about multi-modal machine learning and image caption. <br>
+  * Proposed an image caption system integrating with linguistic context under the encoder-decoder framework. <br>
+  
 ---
 
 
