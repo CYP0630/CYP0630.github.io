@@ -38,7 +38,8 @@ Skills
   * Mandarin (Native), English (Fluent)
 * <b>Programming Language</b>
   * Python, MATLAB, C++, C, Verilog
-  * CUDA C/C++
 * <b>Computer Vision Library and Deep Learning Framework</b>
   * OpenCV
   * Keras = PyTorch > Tensorflow2.x > Tensorflow1.x Caffee
+* <b>Parallel Computing</b>
+  * CUDA 
