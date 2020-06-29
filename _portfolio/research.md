@@ -46,7 +46,7 @@ permalink: /research/
 </details>
 
 ### <b>Devpost: PoweredByTF 2.0 Challenge!</b>
-* Winner
+* **Winner**
 * [Showcase](https://devpost.com/software/shanshuidada)
 <details>
 <summary>Detail</summary>
