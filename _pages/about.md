@@ -40,6 +40,6 @@ Skills
   * Python, MATLAB, C++, C, Verilog
 * <b>Computer Vision Library and Deep Learning Framework</b>
   * OpenCV
-  * Keras = PyTorch > Tensorflow2.x > Tensorflow1.x Caffee
+  * Keras = PyTorch > Tensorflow2.x > Tensorflow1.x > Caffee
 * <b>Parallel Computing</b>
   * CUDA 
