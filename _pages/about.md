@@ -26,7 +26,7 @@ Publications
 ======
 * **Improving script identification by intergating text recognition information**<br>
     Y Cao, J Li, QF Wang, K Huang, R Zhang<br>
-    26th International Conference on Neural Information Processing, Accepted.<br>
+    26th International Conference on Neural Information Processing.<br>
 
 * **Improving Image Caption Performance with Linguistic Context**<br>
     Y Cao, QF Wang, K Huang, R Zhang<br>
