@@ -34,7 +34,7 @@ permalink: /research/
 ## <i>Competition</i>
 
 ### <b>Kaggle Competition: Tweet Sentiment Extraction</b>
-* 0.711, Top 15%
+* 0.717, Ranking: 193 (Top 9%), **Bronze Medal** 
 * [Competition Content](https://www.kaggle.com/c/tweet-sentiment-extraction)
 <details>
 <summary>Detail</summary>
