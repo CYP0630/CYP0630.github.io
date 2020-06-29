@@ -17,7 +17,7 @@ Major Experience
   * <b>M.S. in Applied Artifical Intelligence (expected)</b>
 * <i>Research Assisstant</i>, 2019.01 - 2019.08
   * <b>[Pattern Recognition & Machine Intelligence Laboratory](http://www.premilab.com/)</b>
-* <i>University of Liverpool</i>, 017.09-2019.01
+* <i>University of Liverpool</i>, 2017.09-2019.01
   * <b>M.S. in Multimedia Telecommunication (Merit)</b>
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09-2017.07
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
@@ -38,6 +38,7 @@ Skills
   * Mandarin (Native), English (Fluent)
 * <b>Programming Language</b>
   * Python, MATLAB, C++, C, Verilog
+  * CUDA C/C++
 * <b>Computer Vision Library and Deep Learning Framework</b>
   * OpenCV
-  * Keras = PyTorch > Tensorflow1.x/2.x > Caffee
+  * Keras = PyTorch > Tensorflow2.x > Tensorflow1.x Caffee
