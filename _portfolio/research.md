@@ -11,11 +11,6 @@ permalink: /research/
 </html>
 <br/>
 
-
----
-
-<br />
-
 ## <i>Research Experience</i>
 
 * 2020.08-, <b>M.S. Thesis in Infinity Lab @ Stevens</b>, <i>Stevens</i>
