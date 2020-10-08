@@ -10,7 +10,6 @@ permalink: /research/
 <hr color="000000" />
 </html>
 <br/>
----
 
 ## <i>Research Experience</i>
 
