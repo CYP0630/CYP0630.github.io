@@ -71,7 +71,9 @@ permalink: /education/
    * CS584  Natural Language Processing<br>
    * CPE695 Applied Machine Learning <br>
    * CPE646 Pattern Recognition and Classification<br>
-   * EE608  Modelling and Optimization 
+   * EE608  Modelling and Optimization<br> 
+   * CPE593 Applied Data Structure and Algorithms<br>
+   * CPE810 GPU and Multicore Programming
 </details>
 
 
