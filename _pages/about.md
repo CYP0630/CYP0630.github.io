@@ -46,4 +46,4 @@ Skills
 * <b>Parallel Computing</b>
   * CUDA 
 * <b>Tools</b>
-  * Linux, Git, LaTeX, AWS
+  * Linux, Git, LaTeX, Vim, AWS
