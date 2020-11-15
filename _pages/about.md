@@ -18,9 +18,10 @@ Major Experience
   * <b>Infinity Lab @ Stevens</b>
 * <i>Research Assisstant</i>, 2019.01 - 2019.08
   * <b>[Pattern Recognition & Machine Intelligence Laboratory](http://www.premilab.com/)</b>
-  * <b>Supervisor:[Prof. Qiufeng Wang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/qiufeng-wang) and [Prof. Kaizhu Huang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/kaizhu-huang)</b>
 * <i>University of Liverpool</i>, 2017.09 - 2019.01
   * <b>M.S. in Multimedia Telecommunication (Merit)</b>
+  * <b>Supervisor: [Prof. Qiufeng Wang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/qiufeng-wang) and [Prof. Kaizhu Huang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/kaizhu-huang)</b>
+
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09 - 2017.07
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
