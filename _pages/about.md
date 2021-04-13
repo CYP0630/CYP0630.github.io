@@ -25,7 +25,7 @@ Education
 Professional Experience 
 ======
 * <b>Provost Doctoral Fellowship Award, 2021-2025</b>
-* <b>ECE 2020 Honours Summer Research Program 3rd Award, 2021.8</b>
+* <b>ECE 2020 Honours Summer Research Program 3rd Award, 2020.8</b>
 
 
 Professional Experience 
