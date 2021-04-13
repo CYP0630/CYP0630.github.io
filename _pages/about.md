@@ -19,7 +19,6 @@ Education
   * <b>M.S. in Applied Artifical Intelligence</b>
 * <i>University of Liverpool</i>, 2017 - 2019
   * <b>M.S. in Multimedia Telecommunication (Merit)</b>
-  * <b>Supervisor: [Prof. Qiufeng Wang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/qiufeng-wang) and [Prof. Kaizhu Huang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/kaizhu-huang)</b>
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013 - 2017
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
@@ -28,8 +27,12 @@ Professional Experience
 ======
 * <i>Research Fellowship, Stevens Institute of Technology</i>, 2021.09 - 
   * <b>[Infinity Lab @ Stevens](http://www.premilab.com/)</b>
+* <i>Thesis Student, Stevens Institute of Technology</i>, 2021.09 - 
+  * <b>[Infinity Lab @ Stevens](http://www.premilab.com/)</b>
+  * <b>Supervisor: [Prof. Suba](https://www.kpsuba.com/) and [Prof. Mouli](http://www.mouli.me/)</b>
 * <i>Research Assisstant, Xi'an Jiaotong-Liverpool University</i>, 2019.01 - 2019.08
   * <b>[Pattern Recognition & Machine Intelligence Laboratory](http://www.premilab.com/)</b>
+  * <b>Supervisor: [Prof. Qiufeng Wang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/qiufeng-wang) and [Prof. Kaizhu Huang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/kaizhu-huang)</b>
 
 Publications
 ======
