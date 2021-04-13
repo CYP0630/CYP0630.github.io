@@ -26,9 +26,9 @@ Education
 Professional Experience 
 ======
 * <i>Research Fellowship, Stevens Institute of Technology</i>, 2021.09 - 
-  * <b>[Infinity Lab @ Stevens](http://www.premilab.com/)</b>
+  * <b>[Infinity Lab @ Stevens](https://sites.google.com/stevens.edu/infinitylab)</b>
 * <i>Thesis Student, Stevens Institute of Technology</i>, 2021.09 - 
-  * <b>[Infinity Lab @ Stevens](http://www.premilab.com/)</b>
+  * <b>[Infinity Lab @ Stevens](https://sites.google.com/stevens.edu/infinitylab)</b>
   * <b>Supervisor: [Prof. Suba](https://www.kpsuba.com/) and [Prof. Mouli](http://www.mouli.me/)</b>
 * <i>Research Assisstant, Xi'an Jiaotong-Liverpool University</i>, 2019.01 - 2019.08
   * <b>[Pattern Recognition & Machine Intelligence Laboratory](http://www.premilab.com/)</b>
