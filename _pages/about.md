@@ -22,7 +22,7 @@ Education
 * <i>Xi'an Jiaotong-Liverpool University</i>, 2013 - 2017
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
-Professional Experience 
+Awards 
 ======
 * <b>Provost Doctoral Fellowship Award, 2021-2025</b>
 * <b>ECE 2020 Honours Summer Research Program 3rd Award, 2020.8</b>
