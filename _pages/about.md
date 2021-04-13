@@ -13,13 +13,14 @@ In General, I'm interested in Computer Vision, Natural Language Processing, Mach
 
 Education
 ======
-* <i>Stevens Institute of Technology</i>, 2019.08 - 2021.5(expected)
+* <i>Stevens Institute of Technology</i>, 2021 - 2024 (expected)
+  * <b>Ph.D in Computer Engineering</b>
+* <i>Stevens Institute of Technology</i>, 2019 - 2021
   * <b>M.S. in Applied Artifical Intelligence</b>
-  * <b>Infinity Lab @ Stevens</b>
-* <i>University of Liverpool</i>, 2017.09 - 2019.01
+* <i>University of Liverpool</i>, 2017 - 2019
   * <b>M.S. in Multimedia Telecommunication (Merit)</b>
   * <b>Supervisor: [Prof. Qiufeng Wang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/qiufeng-wang) and [Prof. Kaizhu Huang](https://www.xjtlu.edu.cn/en/departments/academic-departments/intelligent-science/staff/kaizhu-huang)</b>
-* <i>Xi'an Jiaotong-Liverpool University</i>, 2013.09 - 2017.07
+* <i>Xi'an Jiaotong-Liverpool University</i>, 2013 - 2017
   * <b>B.Eng. (Honours) in Telecommunication Engineering</b>
 
 
