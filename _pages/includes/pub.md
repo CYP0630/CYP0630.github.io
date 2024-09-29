@@ -24,8 +24,8 @@ Ning Wang, **Yupeng Cao**, Shuai Hao, Zongru Shao, and K. Subbalakshmi.
 Qinjin Jia, **Yupeng Cao**, Edward F. Gehringer.
 
 ## Others
-- Fed-FIDS: A Efficient Federated Learning-Based Intrusion Detection Framework, MILCOM, 2024. (AI + Networking)\ 
-Fan Yang, **Yupeng Cao**, Bingyang Wen, Cristina Comaniciu, K.P. Subbalakshmi. MILCOM, 2024. 
+- Fed-FIDS: A Efficient Federated Learning-Based Intrusion Detection Framework, MILCOM 2024. (AI + Networking)\ 
+Fan Yang, **Yupeng Cao**, Bingyang Wen, Cristina Comaniciu, K.P. Subbalakshmi.
 - Automated Handling and Feeding Techniques for Skewering Operations, Journal of the ASABE (2024). (AI + Mechanical)\
 Jing Yi, Jiaqi Lyu, Wenbo Liu, Tianqi Yao, **Yupeng Cao**, Yuzhen Lu, and Xin Zhang. 
 - Cutting techniques in the fish industry: A critical review, Foods 11, no. 20 (2022): 3206. (AI + Mechanical)\
