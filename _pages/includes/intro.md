@@ -1,6 +1,6 @@
-Hi there! I'm a ECE Ph.D. candidate at Steves Institute of Technology under the supervison of Prof. K.P (Suba) Subbalakshmi.
+Hi there! I'm a ECE Ph.D. candidate at Steves Institute of Technology under the supervison of [Prof. K.P (Suba) Subbalakshmi](https://scholar.google.com/citations?user=8vm5mEUAAAAJ&hl=en&authuser=1).
 
-Previously, I got the M.S. degree from University of Liverpool in Multimedia Telecommunication under the supervision of [Prof. Qiufeng Wang](https://scholar.google.com/citations?user=qj66yXAAAAAJ&hl=en&authuser=1) and [Prof.Kaizhu Huang](https://scholar.google.com/citations?user=3l5B0joAAAAJ&hl=en&authuser=1). In here, I started my academic career. Before that, I obtained my B.Eng degree from the Xi'an Jiaotong-Liverpool University in Telecommunication. 
+Previously, I got the M.S. degree in Multimedia Telecommunication from University of Liverpool, wheree I was guided by [Prof. Qiufeng Wang](https://scholar.google.com/citations?user=qj66yXAAAAAJ&hl=en&authuser=1) and [Prof.Kaizhu Huang](https://scholar.google.com/citations?user=3l5B0joAAAAJ&hl=en&authuser=1). In here, I embarked my academic path. Before that, I obtained my B.Eng degree in Telecommunication from the Xi'an Jiaotong-Liverpool University. 
 
 My research interest includes Natural Language Processing, Multimodal, Audio/Speech Processing, Trustworthy AI.
 
