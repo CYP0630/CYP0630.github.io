@@ -1,6 +1,7 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2024.09*: 🎉 One paper is accepted by NeurIPS 2024
+- *2024.09*: 🎉 One paper is accepted by [ICAIF](https://ai-finance.org/) 2024
+- *2024.08*: 💻 We host [Agent-Based Single Cryptocurrenty Trading Challenge @ Coling 2025](https://coling2025cryptotrading.thefin.ai/), Welcome everyone to participate!
+- *2022.05*: Passed Ph.D. Qualify Exam
+- *2022.03*: One paper is accepted by Deep Generative Models for Highly Structured Data Workshop @ ICLR 2022
+- *2021.06*: One paper is accepted by InterSpeech 2021
