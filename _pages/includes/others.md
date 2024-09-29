@@ -6,6 +6,6 @@
 - *2013.09 - 2017.07*, B.Eng in Telecommunication, Xi'an Jiaotong-Liverpool University.
 
 # 💻 Skills
-- *Programmings:*, Python, C/C++, CUDA, MATLAB, Assembly.
-- *Frameworks:*, PyTorch, LangChain, LlamaIndex, Keras, Tensorflow2.x/1.x, Scikit, Caffe.
-- *Application Skills:*, Linux, Git, LaTeX, Vim, Shell, AWS, Docker, PySpark.
+- *Programmings:* Python, C/C++, CUDA, MATLAB, Assembly.
+- *Frameworks:* PyTorch, LangChain, LlamaIndex, Keras, Tensorflow2.x/1.x, Scikit, Caffe.
+- *Application Skills:* Linux, Git, LaTeX, Vim, Shell, AWS, Docker, PySpark.
