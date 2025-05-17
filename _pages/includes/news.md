@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05*: 🎉 Two paper InvestorBench (main) and FlagTrader(finding) are headed to ACL 2025
 - *2024.11*: Service as a Session Chair at [ICAIF 2024](https://ai-finance.org/session-chairs/)
 - *2024.09*: 🎉 One paper was accepted by NeurIPS 2024
 - *2024.09*: 🎉 One paper was accepted by [ICAIF 2024](https://ai-finance.org/)

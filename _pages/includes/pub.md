@@ -3,7 +3,12 @@
 (\* means co-first author / equal contributions)
 
 ## Main Publication
-
+- `ACL 2025` [INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks
+with LLM-based Agent](https://arxiv.org/pdf/2412.18174)\
+Haohang Li\*, **Yupeng Cao**\*, Yangyang Yu\*,..., Zining Zhu,  K.P. Subbalakshmi, Jordan W. Suchow.
+- `ACL 2025` [FLAG-TRADER: Fusion LLM-Agent with Gradient-based
+Reinforcement Learning for Financial Trading](https://arxiv.org/pdf/2502.11433)\
+Guojun Xiong, Zhiyang Deng, Keyi Wang, **Yupeng Cao**, Haohang Li, Yangyang Yu, Xiao-Yang Liu, Jimin Huang, Sophia Ananiadou, Qianqian Xie.
 - `NeurIPS 2024` [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making](https://arxiv.org/pdf/2407.06567)\
 Yangyang Yu\*, Zhiyuan Yao\*, Haohang Li\*, Zhiyang Deng\*, **Yupeng Cao**\*, Zhi Chen\*, et al. 
 - ``ICAIF 2024`` [ECC Analyzer: Extract Trading Signal from Earnings Conference Calls using Large Language Model for Stock Volatility Prediction](https://arxiv.org/pdf/2404.18470)\

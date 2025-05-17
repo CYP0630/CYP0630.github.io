@@ -5,8 +5,8 @@
 - *2013.09 - 2017.07*, B.Eng in Telecommunication, Xi'an Jiaotong-Liverpool University.
 
 # 🧑‍🎨 Professional Service
-- Conference Reviewer: KDD (2024, 2025), ICLR (2025), NAACL (2025), ICAIF (2024), ICASSP (2025)
-- Journal Reviewer: TAI, TNNLS, ACM the Web
+- Conference Reviewer: KDD (24, 25), ICLR (25), ICML (25), ARR (24, 25), ICAIF (2024), ICASSP (2025)
+- Journal Reviewer: IEEE IoT Journal, TAI, TNNLS, ACM the Web
 - PC Member: FinNLP-FNP-LLMFinLegal @ COLING-2025 
 - Workshop/Challenge Organizer: Agent-based Single Cryptocurrency Trading @ COLING-2025
 
