@@ -1,3 +1,7 @@
+# 💼 Work Experience
+- *2025.07 - Now*, Spectronn, Research Engineer Intern. 
+- *2025.01 - 2025.06*, Nokia Bell Labs, Research Scientist Intern. 
+
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. in Computer Engineering, Stevens Institute of Technology.
 - *2019.09 - 2021.07*, M.S. in Applied Artificial Intelligence, Stevens Institute of Technology.
