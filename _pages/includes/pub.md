@@ -3,6 +3,9 @@
 (\* means co-first author / equal contributions)
 
 ## Main Publication
+- `ACL-W 2025` Detecting Hallucinations in Scientific Claims
+by Combining Prompting Strategies and Internal State Classification.\
+Yupeng Cao, Chun-Nam Yu, K.P. Subbalakshmi
 - `ACL 2025` [INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks
 with LLM-based Agent](https://arxiv.org/pdf/2412.18174)\
 Haohang Li\*, **Yupeng Cao**\*, Yangyang Yu\*,..., Zining Zhu,  K.P. Subbalakshmi, Jordan W. Suchow.
@@ -29,7 +32,7 @@ Ning Wang, **Yupeng Cao**, Shuai Hao, Zongru Shao, and K. Subbalakshmi.
 Qinjin Jia, **Yupeng Cao**, Edward F. Gehringer.
 
 ## Others
-- Fed-FIDS: A Efficient Federated Learning-Based Intrusion Detection Framework, MILCOM 2024. (AI + Networking)\ 
+- Fed-FIDS: A Efficient Federated Learning-Based Intrusion Detection Framework, MILCOM 2024. (AI + Networking)\
 Fan Yang, **Yupeng Cao**, Bingyang Wen, Cristina Comaniciu, K.P. Subbalakshmi.
 - Automated Handling and Feeding Techniques for Skewering Operations, Journal of the ASABE (2024). (AI + Mechanical)\
 Jing Yi, Jiaqi Lyu, Wenbo Liu, Tianqi Yao, **Yupeng Cao**, Yuzhen Lu, and Xin Zhang. 
