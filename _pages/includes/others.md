@@ -2,16 +2,19 @@
 - *2025.07 - Now*, Spectronn, Research Engineer Intern. 
 - *2025.01 - 2025.06*, Nokia Bell Labs, Research Scientist Intern. 
 
+
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. in Computer Engineering, Stevens Institute of Technology.
 - *2019.09 - 2021.07*, M.S. in Applied Artificial Intelligence, Stevens Institute of Technology.
 - *2017.09 - 2018.12*, M.S. in Multimedia Telecommunication, University of Liverpool (Merit).
 - *2013.09 - 2017.07*, B.Eng (honours) in Telecommunication, Xi'an Jiaotong-Liverpool University.
 
+
 # 🎙️Invited Talks
 * 2025.07: SIAM Conference on Financial Mathematics and Engineering (FM25) 
 * 2025.03: Wolfe Research AI in Finance Conference
 * 2024.11: The Fifth ACM International Conference on AI in Finance
+
 
 # 🧑‍🎨Professional Service
 - Organizers @ SIAM FM25 Microsymposium on Advances and Applications of LLMs in Finance

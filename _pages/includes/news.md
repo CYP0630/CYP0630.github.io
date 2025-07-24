@@ -1,5 +1,7 @@
 # 🔥 News
-- *2025.05*: 🎉 Two paper InvestorBench (main) and FlagTrader(finding) are headed to ACL 2025
+- *2025.07*: 🎉 One paper was accepted by ACL 2025 Scholar Document Processing Workshop 
+- *2025.07*: 💻 Organizing Microsymposium on Advances and Applications of LLMs in Finance at [SIAM FM25](https://drive.google.com/file/d/1AxgSoaleMjT1mkb0I4Lt3OCHpaurr3zA/view?usp=drive_link) 
+- *2025.05*: 🎉 Two paper [InvestorBench (main)](https://arxiv.org/abs/2412.18174) and [FlagTrader(finding)](https://arxiv.org/abs/2502.11433) are headed to ACL 2025
 - *2024.11*: Service as a Session Chair at [ICAIF 2024](https://ai-finance.org/session-chairs/)
 - *2024.09*: 🎉 One paper was accepted by NeurIPS 2024
 - *2024.09*: 🎉 One paper was accepted by [ICAIF 2024](https://ai-finance.org/)
