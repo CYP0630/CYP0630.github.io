@@ -6,9 +6,10 @@
 
 # 🎙️Invited Talks
 * 2025.07: SIAM Conference on Financial Mathematics and Engineering (FM25) 
-* 2026.03: Wolfe Research AI in Finance Conference
+* 2025.03: Wolfe Research AI in Finance Conference
 * 2024.11: The Fifth ACM International Conference on AI in Finance
-# 🧑‍🎨 Professional Service
+
+# 🧑‍🎨Professional Service
 - Organizers @ SIAM FM25 Microsymposium on Advances and Applications of LLMs in Finance
 - Session Chair @ 5th ACM International Conference on AI in Finance 
 - Workshop/Challenge Organizer: 
