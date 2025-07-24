@@ -1,8 +1,8 @@
 # 📖 Educations
 - *2021.09 - Now*, Ph.D. in Computer Engineering, Stevens Institute of Technology.
 - *2019.09 - 2021.07*, M.S. in Applied Artificial Intelligence, Stevens Institute of Technology.
-- *2017.09 - 2018.12*, M.S. in Multimedia Telecommunication, University of Liverpool.
-- *2013.09 - 2017.07*, B.Eng in Telecommunication, Xi'an Jiaotong-Liverpool University.
+- *2017.09 - 2018.12*, M.S. in Multimedia Telecommunication, University of Liverpool (Merit).
+- *2013.09 - 2017.07*, B.Eng (honours) in Telecommunication, Xi'an Jiaotong-Liverpool University.
 
 # 🎙️Invited Talks
 * 2025.07: SIAM Conference on Financial Mathematics and Engineering (FM25) 
@@ -24,5 +24,5 @@
 
 # 💻 Skills
 - *Programmings:* Python, C/C++, CUDA, MATLAB, Assembly.
-- *Frameworks:* PyTorch, LangChain, LlamaIndex, Keras, Tensorflow2.x/1.x, Scikit, Caffe.
+- *Frameworks:* PyTorch, LangGraph, LlamaIndex, Keras, Tensorflow2.x/1.x, Scikit, Caffe.
 - *Application Skills:* Linux, Git, LaTeX, Vim, Shell, AWS, Docker, PySpark.
