@@ -3,3 +3,5 @@ Hi there! I'm a Ph.D. candidate in ECE Department at Steves Institute of Technol
 My research interest includes Natural Language Processing, Multimodal, Audio/Speech Processing, Trustworthy AI.
 
 If you’re interested at anything or if you are seeking any form of **academic cooperation**, please feel free to contact me at: caoyupeng.work at gmail dot com.
+
+**I am looking for full-time positions in either academia or industry. Please don’t hesitate to get in touch.**
