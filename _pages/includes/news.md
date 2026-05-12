@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.03*: 🎉 Two paper was accepted by ACL 2026 
+- *2026.01*: 🎉 One paper was accepted by WWW 
 - *2025.07*: 🎉 One paper was accepted by ACL 2025 Scholar Document Processing Workshop 
 - *2025.07*: 💻 Organizing Microsymposium on Advances and Applications of LLMs in Finance at [SIAM FM25](https://drive.google.com/file/d/1AxgSoaleMjT1mkb0I4Lt3OCHpaurr3zA/view?usp=drive_link) 
 - *2025.05*: 🎉 Two paper [InvestorBench (main)](https://arxiv.org/abs/2412.18174) and [FlagTrader(finding)](https://arxiv.org/abs/2502.11433) are headed to ACL 2025
