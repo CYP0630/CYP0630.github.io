@@ -1,13 +1,14 @@
 # 🔥 News
+- *2026.06*: Joined Yale University as a Postdoctoral Associate
+- *2026.04*: Passed Ph.D. Final Disseration!
 - *2026.03*: 🎉 Two paper was accepted by ACL 2026 
 - *2026.01*: 🎉 One paper was accepted by WWW 
-- *2025.07*: 🎉 One paper was accepted by ACL 2025 Scholar Document Processing Workshop 
 - *2025.07*: 💻 Organizing Microsymposium on Advances and Applications of LLMs in Finance at [SIAM FM25](https://drive.google.com/file/d/1AxgSoaleMjT1mkb0I4Lt3OCHpaurr3zA/view?usp=drive_link) 
 - *2025.05*: 🎉 Two paper [InvestorBench (main)](https://arxiv.org/abs/2412.18174) and [FlagTrader(finding)](https://arxiv.org/abs/2502.11433) are headed to ACL 2025
 - *2024.11*: Service as a Session Chair at [ICAIF 2024](https://ai-finance.org/session-chairs/)
 - *2024.09*: 🎉 One paper was accepted by NeurIPS 2024
 - *2024.09*: 🎉 One paper was accepted by [ICAIF 2024](https://ai-finance.org/)
-- *2024.08*: 💻 We host [Agent-Based Single Cryptocurrenty Trading Challenge @ Coling 2025](https://coling2025cryptotrading.thefin.ai/), Welcome everyone to participate!
+- *2024.08*: 💻 We host [Agent-Based Single Cryptocurrenty Trading Challenge @ Coling 2025](https://coling2025cryptotrading.thefin.ai/)
+- *2023.02*: Served as the Lab Session Instructor for CPE 390 - Microprocessor Systems (Spring and Fall)
 - *2022.05*: Passed Ph.D. Qualify Exam
-- *2022.03*: One paper was accepted by Deep Generative Models for Highly Structured Data Workshop @ ICLR 2022
 - *2021.06*: One paper was accepted by InterSpeech 2021
