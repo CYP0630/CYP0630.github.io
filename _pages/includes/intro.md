@@ -1,7 +1,5 @@
-Hi there! I'm a Postdoctoral Associate at the Section of Biomedical Informatics and Data Science, Yale School of Medicine. Previously, I got my Ph.D. degree in ECE Department from Steves Institute of Technology. I got the M.S. degree in Multimedia Telecommunication from University of Liverpool. Before that, I obtained my B.Eng degree in Telecommunication from the Xi'an Jiaotong-Liverpool University. 
+Hi there! I'm a Postdoctoral Research Associate at Yale University's Department of Biomedical Informatics and Data Science. Previously, I received my Ph.D. degree in Computer Engineering from Steves Institute of Technology. I got the M.S. degree in Multimedia Telecommunication from University of Liverpool. Before that, I obtained my B.Eng degree in Telecommunication Engineering from the Xi'an Jiaotong-Liverpool University. 
 
-My research interest includes Natural Language Processing, Multimodal, Audio/Speech Processing, Trustworthy AI.
+My research span Natural Language Processing (NLP), Multimodal, Audio/Speech Processing, Trustworthy AI, with applications in finance and healthcare. 
 
-If you’re interested at anything or if you are seeking any form of **academic cooperation**, please feel free to contact me at: caoyupeng.work at gmail dot com.
-
-**I am looking for full-time positions in either academia or industry. Please don’t hesitate to get in touch.**
+If you’re interested at anything or if you are seeking any form of **academic cooperation**, please feel free to contact me at: caoyupeng.work at gmail dot com; yupeng.cao at yale dot com 
