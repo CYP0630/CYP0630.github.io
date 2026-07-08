@@ -1,5 +1,5 @@
 # 💼 Work Experience
-- *2025.06 - Now*, Spectronn, Postdoctoral Researcher, Department of Biomedical Informatics and Data Science, Yale University
+- *2025.06 - Now*, Postdoctoral Researcher, Department of Biomedical Informatics and Data Science, Yale University
 - *2025.07 - 2025.08*, Spectronn, Research Engineer Intern. 
 - *2025.01 - 2025.06*, Nokia Bell Labs, Research Scientist Intern. 
 
