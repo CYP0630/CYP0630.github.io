@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yupeng Cao"
-description              : "Ph.D. Candidate in Stevens Institute of Technology. Interested in: NLP Multimodal and Trustworthy AI."
+description              : "Postdoctoral at Yale. Interested in: NLP, Multimodal, Trustworthy AI, Applications in Finance and Medicine."
 repository               : "CYP0630/CYP0630.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Yupeng Cao"
   avatar           : "images/logo.png"
   bio              : ""
-  location         : "New York"
+  location         : "New Haven / New York Area"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=pumUNAcAAAAJ&hl=en&authuser=1"
