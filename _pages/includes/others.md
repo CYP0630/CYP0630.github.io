@@ -5,7 +5,7 @@
 
 
 # 📖 Educations
-- *2021.09 - 2016.05*, Ph.D. in Computer Engineering, Stevens Institute of Technology.
+- *2021.09 - 2026.05*, Ph.D. in Computer Engineering, Stevens Institute of Technology.
 - *2019.09 - 2021.07*, M.S. in Applied Artificial Intelligence, Stevens Institute of Technology.
 - *2017.09 - 2018.12*, M.S. in Multimedia Telecommunication, University of Liverpool (Merit).
 - *2013.09 - 2017.07*, B.Eng (honours) in Telecommunication, Xi'an Jiaotong-Liverpool University.
